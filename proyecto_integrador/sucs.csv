@@ -1,0 +1,31 @@
+localidad,sucursalNombre,direccion,sucursalTipo,lat,lng,provincia,sucursalId,comercioId,banderaId,sucursal_id
+Alta Gracia,Sucursal 07,Av. Sarmiento 618,Supermercado,-31.654088,-64.44225899999999,AR-X,7,14,1,14-1-7
+Alta Gracia,Sucursal 06,Consejal Alonso 770,Autoservicio,-31.664987,-64.427644,AR-X,6,14,1,14-1-6
+Alta Gracia,Sucursal 04,Lucas V. Cordoba 965,Supermercado,-31.64848,-64.433943,AR-X,4,14,1,14-1-4
+Alto Verde,Córdoba Granaderos,Bvard. Granaderos 2906,Supermercado,-31.374529,-64.21385500000001,AR-X,295,10,2,10-2-295
+ARGUELLO,CORDOBA ARGUELLO,Avenida Recta Martinoli 5981,Autoservicio,-31.3503,-64.25165,AR-X,2101,19,1,19-1-2101
+Arroyito,1071 - Arroyito,Av Arturo Illia 796,Supermercado,-31.414566,-63.04657099999999,AR-X,1071,15,1,15-1-1071
+BARRIO AERONAUTICO *,Cordoba Donato Alvarez,Avenida Donato Alvarez 8600,Hipermercado,-31.323825,-64.26895,AR-X,1097,11,2,11-2-1097
+BARRIO MATIENZO *,CDBA-Fuerza Aerea,Av Fuerza Aerea Argentina 4372,Supermercado,-31.432439,-64.24414399999999,AR-X,1060,11,2,11-2-1060
+Bell Ville,1048 - Bell Ville,Cl Cordoba 602,Supermercado,-32.629875,-62.694435,AR-X,1048,15,1,15-1-1048
+BELL VILLE,Bellville.,Boulevard Colon 850,Supermercado,-32.619,-62.6938,AR-X,478,9,1,9-1-478
+CAPILLA DEL MONTE,Cordiez 47,Hipolito Yrigoyen 262,Supermercado,-30.857497,-64.525162,AR-X,47,7,1,7-1-47
+Capital,Mini Libertad Colon,Av. Colon 823,Autoservicio,-31.410431,-64.19416600000001,AR-X,5104,16,2,16-2-5104
+Capital,Hipermercado Ruta 9,Avda. Amadeo Sabattini 3250,Hipermercado,-31.434051,-64.142987,AR-X,602,16,1,16-1-602
+Capital,Mini Libertad Caraffa,Av. Emilio Caraffa 2683,Autoservicio,-31.387203000000003,-64.21509499999999,AR-X,4604,16,2,16-2-4604
+Capital,Mini Libertad Fader,Av. Fernando Fader 3903,Autoservicio,-31.375555,-64.231105,AR-X,4704,16,2,16-2-4704
+Capital,Mini Libertad Rafael Nuñez,Av Rafael Núñez 5887,Autoservicio,-31.349003000000003,-64.249119,AR-X,4304,16,2,16-2-4304
+Capital,Petit Valle Mall,Av República De China 1045,Autoservicio,-31.377987,-64.277458,AR-X,5604,16,2,16-2-5604
+Capital,Hipermercado Rivera Indarte,Av.Ricardo Rojas Y Manuel De Falla None,Hipermercado,-31.335048,-64.29016800000001,AR-X,2502,16,1,16-1-2502
+Capital,Hipermercado Poeta Lugones,Fray Luis Beltrán Y Manuel Cardeñosa None,Hipermercado,-31.36418,-64.216945,AR-X,102,16,1,16-1-102
+Capital,Petit HiperConstruccion,Joaquin Camaño Y Bazan 4494,Autoservicio,-31.362231,-64.218739,AR-X,5704,16,2,16-2-5704
+Capital,Petit Barranquitas Mall,José Roque Funes 1145,Autoservicio,-31.380531,-64.24515,AR-X,5504,16,2,16-2-5504
+Capital,Hipermercado Jacinto Rios,Libertad 1100,Hipermercado,-31.408596000000006,-64.170035,AR-X,202,16,1,16-1-202
+Capital,Mini Libertad Octavio Pinto,Octavio Pinto 2665,Autoservicio,-31.389456,-64.215506,AR-X,5904,16,2,16-2-5904
+Capital,Mini Libertad Parana,Paraná 475,Autoservicio,-31.423638,-64.17975,AR-X,5404,16,2,16-2-5404
+Capital,Mini Libertad Rondeau ,Rodeau 581,Autoservicio,-31.424348,-64.178865,AR-X,4804,16,2,16-2-4804
+Capital,Mini Libertad Sagrada Familia,Sagrada Familia 1305,Autoservicio,-31.38671,-64.22750699999999,AR-X,4204,16,2,16-2-4204
+Capital,Mini Libertad Nueva Cordoba,Santiago Derqui 33,Autoservicio,-31.42571,-64.18749100000001,AR-X,4104,16,2,16-2-4104
+Capital,Mini Libertad Tucuman,Tucumán 138,Autoservicio,-31.413303000000006,-64.187476,AR-X,5204,16,2,16-2-5204
+CARLOS PAZ,Cordiez 43,Av. San Martin 1906,Supermercado,-31.406365,-64.47640799999999,AR-X,43,7,1,7-1-43
+CIUDAD DE CORDOBA NORTE,Córdoba Sur,Av Circunvalacion Este 2557,Hipermercado,-31.394411,-64.26016700000001,AR-X,1010,11,5,11-5-1010
